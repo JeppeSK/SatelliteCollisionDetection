@@ -1,10 +1,10 @@
 # Satellite Collision Detection
 
-**About:**
+### `About`
 
 This is a simple program, with the intent of using Machine Learning to predict possible collisions between satellites.
 
-**How does it work?**
+### `How does it work?`
 
 When running the program, you'll notice a processing bar in the terminal, this bar shows the rate which the satellites are being processed, and gives an estimate on how long the task would take:
 
@@ -15,7 +15,7 @@ Here is a image as reference:
 
 ![Plotly image](https://github.com/user-attachments/assets/ac0afed4-6ced-48b2-bacc-23d893f59dad)
 
-**Changing the dataset**
+### `Changing the dataset`
 
 If you wish to change the dataset and use you're own data to teach the ML and predict your own collisions follow these steps.
 
